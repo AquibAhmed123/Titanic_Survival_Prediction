@@ -17,14 +17,14 @@ The Titanic Survival Dataset is a well-known dataset used in machine learning an
 - Cabin: The cabin number of the passenger.
 - Embarked: The port where the passenger got on the ship (Cherbourg, Queenstown, or Southampton).
 
-## Here are some ways you can use this dataset:
+Here are some ways you can use this dataset:
 
 Survival Prediction: You can build machine learning models to predict whether a passenger would have survived the Titanic disaster, which can provide historical insights and help improve safety protocols for future maritime travel.
 
-## Factors Influencing Survival: Analyze the dataset to identify important factors that influenced a passenger's chances of survival. This information can be used to develop policies and procedures to protect specific groups during disasters.
+Factors Influencing Survival: Analyze the dataset to identify important factors that influenced a passenger's chances of survival. This information can be used to develop policies and procedures to protect specific groups during disasters.
 
-## Demographic Exploration: Explore the demographics of Titanic passengers to better understand the people on board and the societal and economic factors that played a role in the disaster.
+Demographic Exploration: Explore the demographics of Titanic passengers to better understand the people on board and the societal and economic factors that played a role in the disaster.
 
-## Historical Analysis: Use the dataset to investigate the causes of the Titanic disaster and learn from the past to enhance safety measures.
+Historical Analysis: Use the dataset to investigate the causes of the Titanic disaster and learn from the past to enhance safety measures.
 
 To get started, you can download the CSV file and use it with spreadsheet programs or data analysis tools of your choice. Feel free to explore and analyze this dataset for various data science and machine learning projects. It offers valuable insights into a significant historical event and opportunities for predictive modeling and historical research.
